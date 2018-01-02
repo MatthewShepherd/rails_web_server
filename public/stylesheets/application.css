@@ -1,0 +1,21 @@
+body {
+  padding-top: 5%;
+  margin: auto;
+  width: 50%;
+  background-color: powderblue;
+
+}
+
+h1 {
+  padding: 1%;
+  font-family: Helvetica;
+  margin: auto;
+  width: 52.2%;
+  border-bottom: 1px solid grey;
+  border-top: 1px solid grey;
+  border-left-style: solid;
+  border-right-style: solid;
+  border-left-color: grey;
+  border-right-color: grey;
+  background-color: white;
+}
